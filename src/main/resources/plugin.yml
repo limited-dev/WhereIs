@@ -1,0 +1,7 @@
+name: WhereIs
+version: '${project.version}'
+main: de.limited_dev.whereis.Main
+api-version: 1.18
+authors: [ limited_dev ]
+description: Where is this player? Display the world as Prefix
+website: limited-dev.de
